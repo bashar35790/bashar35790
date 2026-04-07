@@ -1,37 +1,80 @@
-
-<h3>Hi there, - my name Abul Bashar 👋<h3/>
-
-## I'm a full-stack web developer 😊😊
-Email Me 👉 ✉️ **bashar35790@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** Ecommerce api with Express and React
-- 🌱 **I’m currently learning:** everything 🤣
-- 👯 **I’m looking to collaborate on:**  other content creators
-- 📫 **How to reach me:** 01833487526
-- ⚡ **Fun fact:** I'm over overconfident all time
-- 🥅 **2022 Goals:** Contribute some Open Source projects
-
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bashar35790) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bashar35790) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bashar35790) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MohammadB3579) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bashar35790) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bashar35790@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![](https://github-readme-stats.vercel.app/api?username=bashar35790&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bashar35790&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bashar35790&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bashar35790&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bashar35790&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![lindkedinBanner](https://github.com/user-attachments/assets/5f06d0dd-f3dd-4f95-a860-2631f98da813)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0097B2&center=true&vCenter=true&width=600&lines=Hello+There;I+am+Abul+Bashar...;Nice+to+Meet+you!" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bashar35790&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="center">
+Frontend & MERN Stack Developer  👋 | Expert in JavaScript, React.js, React Native, Next.js, Redux, TypeScript, Node.js, Express.js | Crafting High-Performance Microservices, Scalable Web Apps with MongoDB & PostgreSQL 🌍 | Building Scalable Modern Web Applications
+</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://linkedin.com/in/bashar35790" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/bashar35790" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/MohammadB3579" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:bashar35790@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+
+
+<table>
+  <tr>
+    <!-- LEFT SIDE TEXT -->
+    <td width="55%" valign="top">
+
+### 🧠 Talking about Personal Stuff:
+
+- 🔭 I’m currently working with **JS, TS, React, Node, Express, MongoDB, SQL & AWS**
+- 🚀 I’m currently exploring **Golang, Blockchain, Rust, Solidity, Solana**
+- 📫 Reach me out: **bashar35790@gmail.com**
+
+<br/>
+
+### ❤️ My Absolute Favorites:
+
+- 💻 I love exploring new technologies and building cool stuff.
+- 🎨 Meetups & Tech Events & Hackathons.
+
+    </td>
+
+    <!-- RIGHT SIDE IMAGE -->
+    <td width="45%">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+
+<h1 align="center">🔥 Languages & Frameworks & Tools 🔥</h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,git,postgres,vscode,visualstudio,jquery,github,mysql,npm" />
+</p>
+
+---
+
+```js
+const abulBashar = {
+  pronouns: "he/him",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Tailwind CSS"],
+  tools: ["React", "Redux", "Next.js", "Node.js", "Styled-Components", "Jest", "Docker", "Kubernetes"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+    coorganizer: "East-West-University",
+    speaker: "English",
+    mentor: "Web Developer"
+  },
+  challenge: "I am doing the #100DaysOfCode challenge focused on React and TypeScript"
+};
