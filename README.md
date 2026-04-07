@@ -72,7 +72,7 @@ const abulBashar = {
   tools: ["React", "Redux", "Next.js", "Node.js", "Styled-Components", "Jest", "Docker", "Kubernetes"],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-    coorganizer: "East-West-University",
+    coorganizer: "ZNRF University of Management Sciences",
     speaker: "English",
     mentor: "Web Developer"
   },
