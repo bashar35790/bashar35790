@@ -35,7 +35,7 @@ Frontend & MERN Stack Developer  👋 | Expert in JavaScript, React.js, React Na
 ### 🧠 Talking about Personal Stuff:
 
 - 🔭 I’m currently working with **JS, TS, React, Node, Express, MongoDB, SQL & AWS**
-- 🚀 I’m currently exploring **Golang, Blockchain, Rust, Solidity, Solana**
+- 🚀 I’m currently exploring **DSA & Competitive Programming enthusiast | React frontend developer | Clean & scalable code**
 - 📫 Reach me out: **bashar35790@gmail.com**
 
 <br/>
